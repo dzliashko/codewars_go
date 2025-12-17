@@ -1,4 +1,4 @@
-// Package kyu 7 with solved tasks.
+// Package kyu7 with solved tasks.
 package kyu7
 
 // import "strings"
