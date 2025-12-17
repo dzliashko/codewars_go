@@ -7,6 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(kyu7.ReverseWords("This is an example!"))
-	fmt.Println(kyu7.ReverseWords("double  spaces"))
+	fmt.Println(kyu7.Disemvowel("This website is for losers LOL!"))
 }
